@@ -6,7 +6,7 @@ This package require NodeJS 14.17.0 to work properly.
 
 ## Notification !
 
-+ We will have Example Video on Channel "Nguyễn Thái Hảo Official"
++ Uploaded Help by Abdulla Tech 49"
 
 Original Project(Deprecated): https://github.com/Schmavery/facebook-chat-api
 
